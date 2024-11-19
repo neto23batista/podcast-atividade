@@ -1,0 +1,22 @@
+.bg-light {
+    background-color: #343a40 !important;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.btn-primary {
+    --bs-btn-bg: purple;
+}
+
+.img-topo {
+    width: 60px;
+    /*altura*/
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.card-text{
+    color: black;
+}
